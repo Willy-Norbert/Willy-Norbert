@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Willy Norbert Irabaruta  
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/banner.gif" alt="Animated Banner" width="100%">
+    <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/banners.gif" alt="Animated Banner" width="100%">
 </div>
 
 I'm a **Full-Stack Developer** studying at **Adventist University of Central Africa (AUCA).** Passionate about coding, problem-solving, and building efficient applications.  
