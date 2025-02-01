@@ -1,8 +1,3 @@
-<!-- Add Font Awesome CDN -->
-<!--
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
--->
-
 ### Hi there 👋 I'm Willy Norbert Irabaruta  
 
 <div align="center">
@@ -17,37 +12,34 @@ I'm a **Full-Stack Developer** studying at **Adventist University of Central Afr
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 800px;">
     <div align="center">
-        <i class="fa fa-figma" style="font-size: 50px; color:#F24E1E;"></i>
+        <img src="https://img.icons8.com/ios/452/figma.png" style="width: 50px;" />
     </div>
     <div align="center">
-        <i class="fa fa-html5" style="font-size: 50px; color:#E34F26;"></i>
+        <img src="https://img.icons8.com/ios/452/html-5.png" style="width: 50px;" />
     </div>
     <div align="center">
-        <i class="fa fa-css3" style="font-size: 50px; color:#1572B6;"></i>
+        <img src="https://img.icons8.com/ios/452/css3.png" style="width: 50px;" />
     </div>
     <div align="center">
-        <i class="fa fa-js" style="font-size: 50px; color:#F7DF1E;"></i>
+        <img src="https://img.icons8.com/ios/452/javascript.png" style="width: 50px;" />
     </div>
     <div align="center">
-        <i class="fa fa-node" style="font-size: 50px; color:#339933;"></i>
+        <img src="https://img.icons8.com/ios/452/nodejs.png" style="width: 50px;" />
     </div>
     <div align="center">
-        <i class="fa fa-php" style="font-size: 50px; color:#777BB4;"></i>
+        <img src="https://img.icons8.com/ios/452/php.png" style="width: 50px;" />
     </div>
     <div align="center">
-        <i class="fa fa-react" style="font-size: 50px; color:#61DAFB;"></i>
+        <img src="https://img.icons8.com/ios/452/react.png" style="width: 50px;" />
     </div>
     <div align="center">
-        <i class="fa fa-database" style="font-size: 50px; color:#47A248;"></i>
+        <img src="https://img.icons8.com/ios/452/mongodb.png" style="width: 50px;" />
     </div>
     <div align="center">
-        <i class="fa fa-c" style="font-size: 50px; color:#00599C;"></i>
+        <img src="https://img.icons8.com/ios/452/c-programming.png" style="width: 50px;" />
     </div>
     <div align="center">
-        <i class="fa fa-java" style="font-size: 50px; color:#007396;"></i>
-    </div>
-    <div align="center">
-        <i class="fa fa-database" style="font-size: 50px; color:#6C78AF;"></i>
+        <img src="https://img.icons8.com/ios/452/java.png" style="width: 50px;" />
     </div>
 </div>
 
@@ -57,27 +49,27 @@ I'm a **Full-Stack Developer** studying at **Adventist University of Central Afr
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 800px;">
     <div>
         <a href="YOUR_LINKEDIN_URL">
-            <i class="fa fa-linkedin" style="font-size: 50px; color:#0077B5;"></i>
+            <img src="https://img.icons8.com/ios/452/linkedin.png" style="width: 50px;" />
         </a>
     </div>
     <div>
         <a href="mailto:YOUR_EMAIL">
-            <i class="fa fa-envelope" style="font-size: 50px; color:#D14836;"></i>
+            <img src="https://img.icons8.com/ios/452/gmail.png" style="width: 50px;" />
         </a>
     </div>
     <div>
         <a href="YOUR_WHATSAPP_URL">
-            <i class="fa fa-whatsapp" style="font-size: 50px; color:#25D366;"></i>
+            <img src="https://img.icons8.com/ios/452/whatsapp.png" style="width: 50px;" />
         </a>
     </div>
     <div>
         <a href="YOUR_DISCORD_URL">
-            <i class="fa fa-discord" style="font-size: 50px; color:#7289DA;"></i>
+            <img src="https://img.icons8.com/ios/452/discord-logo.png" style="width: 50px;" />
         </a>
     </div>
     <div>
         <a href="YOUR_SLACK_URL">
-            <i class="fa fa-slack" style="font-size: 50px; color:#4A154B;"></i>
+            <img src="https://img.icons8.com/ios/452/slack-new.png" style="width: 50px;" />
         </a>
     </div>
 </div>
