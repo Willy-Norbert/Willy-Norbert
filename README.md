@@ -9,23 +9,16 @@ I'm a **Full-Stack Developer** studying at **Adventist University of Central Afr
 ---
 
 ### 🚀 Tech Stack
-
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-    <a href="https://www.figma.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/figma.png" alt="Figma" width="40" style="border-radius: 50%; border: 2px solid #F24E1E;">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/html5.png" alt="HTML5" width="40" style="border-radius: 50%; border: 2px solid #E34F26;">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/css3.png" alt="CSS3" width="40" style="border-radius: 50%; border: 2px solid #1572B6;">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/js.png" alt="JavaScript" width="40" style="border-radius: 50%; border: 2px solid #F7DF1E;">
-    </a>
-    <a href="https://nodejs.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/nodejs.png" alt="Node.js" width="40" style="border-radius: 50%; border: 2px solid #339933;">
-    </a>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/bootstrap-logo-shadow.png" alt="Bootstrap" width="50" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/css.png" alt="CSS" width="50" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/elephpant.png" alt="PHP" width="50" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/figma.png" alt="Figma" width="50" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/html.png" alt="HTML" width="50" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/javascript.png" alt="JavaScript" width="50" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/mongodb.png" alt="MongoDB" width="50" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/nodejs.png" alt="Node.js" width="50" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/react.jpg" alt="React" width="50" style="margin: 5px;">
 </div>
 
 ---
