@@ -26,25 +26,25 @@ I'm a **Full-Stack Developer** studying at **Adventist University of Central Afr
 ### 📬 Connect With Me
 
 <div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-    <a href="https://www.linkedin.com" target="_blank">
+    <a href="[https://www.linkedin.com](https://www.linkedin.com/in/i-willy-norbert-6662b034a/)" target="_blank">
         <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/linkedin.jpg" alt="LinkedIn" width="40" style="border-radius: 50%; border: 2px solid #0077B5;">
     </a>
-    <a href="mailto:YOUR_EMAIL" target="_blank">
+    <a href="willynorbert53@gmail.com" target="_blank">
         <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/email.jpg" alt="Email" width="40" style="border-radius: 50%; border: 2px solid #D14836;">
     </a>
-    <a href="https://wa.me/YOUR_WHATSAPP_NUMBER" target="_blank">
+    <a href="0788777888" target="_blank">
         <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/whatsapp.jpg" alt="WhatsApp" width="40" style="border-radius: 50%; border: 2px solid #25D366;">
     </a>
-    <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <a href="https://x.com/IRABARUTA_100" target="_blank">
         <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/twitter.png" alt="Twitter" width="40" style="border-radius: 50%; border: 2px solid #1DA1F2;">
     </a>
     <a href="https://github.com/Willy-Norbert" target="_blank">
         <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/github.png" alt="GitHub" width="40" style="border-radius: 50%; border: 2px solid #333;">
     </a>
-    <a href="https://www.instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <a href="https://www.instagram.com/irabaruta_53/" target="_blank">
         <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/instagram.png" alt="Instagram" width="40" style="border-radius: 50%; border: 2px solid #E1306C;">
     </a>
-    <a href="https://slack.com" target="_blank">
+    <a href="https://devcareerafrica.slack.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/slack.png" alt="Slack" width="40" style="border-radius: 50%; border: 2px solid #4A154B;">
     </a>
     <a href="https://discord.com" target="_blank">
