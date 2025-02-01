@@ -19,6 +19,8 @@ I'm a **Full-Stack Developer** studying at **Adventist University of Central Afr
     <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/mongodb.png" alt="MongoDB" width="50" style="margin: 5px;">
     <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/nodejs.png" alt="Node.js" width="50" style="margin: 5px;">
     <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/react.jpg" alt="React" width="50" style="margin: 5px;">
+        <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/stack.svg" alt="React" width="50" style="margin: 5px;">
+
 </div>
 
 ---
