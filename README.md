@@ -30,7 +30,7 @@ I'm a **Full-Stack Developer** studying at **Adventist University of Central Afr
     <a href="https://www.linkedin.com/in/i-willy-norbert-6662b034a/" target="_blank">
         <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/linkedin.jpg" alt="LinkedIn" width="40" style="border-radius: 50%; border: 2px solid #0077B5;">
     </a>
-  <a href="https://www.linkedin.com/in/i-willy-norbert-6662b034a/" target="_blank">
+  <a href="https://stackoverflow.com/users/22768519/norbert-willy" target="_blank">
         <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/stack.svg" alt="stack" width="40" style="border-radius: 50%; border: 2px solid #0077B5;">
     </a>
      <a href="willynorbert53@gmail.com" target="_blank">
