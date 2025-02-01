@@ -10,68 +10,58 @@ I'm a **Full-Stack Developer** studying at **Adventist University of Central Afr
 
 ### 🚀 Tech Stack
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 800px;">
-    <div align="center">
-        <img src="https://img.icons8.com/ios/452/figma.png" style="width: 50px;" />
-    </div>
-    <div align="center">
-        <img src="https://img.icons8.com/ios/452/html-5.png" style="width: 50px;" />
-    </div>
-    <div align="center">
-        <img src="https://img.icons8.com/ios/452/css3.png" style="width: 50px;" />
-    </div>
-    <div align="center">
-        <img src="https://img.icons8.com/ios/452/javascript.png" style="width: 50px;" />
-    </div>
-    <div align="center">
-        <img src="https://img.icons8.com/ios/452/nodejs.png" style="width: 50px;" />
-    </div>
-    <div align="center">
-        <img src="https://img.icons8.com/ios/452/php.png" style="width: 50px;" />
-    </div>
-    <div align="center">
-        <img src="https://img.icons8.com/ios/452/react.png" style="width: 50px;" />
-    </div>
-    <div align="center">
-        <img src="https://img.icons8.com/ios/452/mongodb.png" style="width: 50px;" />
-    </div>
-    <div align="center">
-        <img src="https://img.icons8.com/ios/452/c-programming.png" style="width: 50px;" />
-    </div>
-    <div align="center">
-        <img src="https://img.icons8.com/ios/452/java.png" style="width: 50px;" />
-    </div>
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+    <a href="https://www.figma.com" target="_blank" style="color: #F24E1E; font-size: 30px;">
+        <i class="fab fa-figma"></i>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="color: #E34F26; font-size: 30px;">
+        <i class="fab fa-html5"></i>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="color: #1572B6; font-size: 30px;">
+        <i class="fab fa-css3-alt"></i>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="color: #F7DF1E; font-size: 30px;">
+        <i class="fab fa-js-square"></i>
+    </a>
+    <a href="https://nodejs.org" target="_blank" style="color: #339933; font-size: 30px;">
+        <i class="fab fa-node"></i>
+    </a>
+    <a href="https://www.php.net" target="_blank" style="color: #777BB4; font-size: 30px;">
+        <i class="fab fa-php"></i>
+    </a>
+    <a href="https://reactjs.org" target="_blank" style="color: #61DAFB; font-size: 30px;">
+        <i class="fab fa-react"></i>
+    </a>
+    <a href="https://www.mongodb.com" target="_blank" style="color: #47A248; font-size: 30px;">
+        <i class="fab fa-envira"></i>
+    </a>
+    <a href="https://www.cprogramming.com" target="_blank" style="color: #00599C; font-size: 30px;">
+        <i class="fab fa-cuttlefish"></i>
+    </a>
+    <a href="https://www.java.com" target="_blank" style="color: #007396; font-size: 30px;">
+        <i class="fab fa-java"></i>
+    </a>
 </div>
 
 ---
 
 ### 📬 Connect With Me
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 800px;">
-    <div>
-        <a href="YOUR_LINKEDIN_URL">
-            <img src="https://img.icons8.com/ios/452/linkedin.png" style="width: 50px;" />
-        </a>
-    </div>
-    <div>
-        <a href="mailto:YOUR_EMAIL">
-            <img src="https://img.icons8.com/ios/452/gmail.png" style="width: 50px;" />
-        </a>
-    </div>
-    <div>
-        <a href="YOUR_WHATSAPP_URL">
-            <img src="https://img.icons8.com/ios/452/whatsapp.png" style="width: 50px;" />
-        </a>
-    </div>
-    <div>
-        <a href="YOUR_DISCORD_URL">
-            <img src="https://img.icons8.com/ios/452/discord-logo.png" style="width: 50px;" />
-        </a>
-    </div>
-    <div>
-        <a href="YOUR_SLACK_URL">
-            <img src="https://img.icons8.com/ios/452/slack-new.png" style="width: 50px;" />
-        </a>
-    </div>
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+    <a href="YOUR_LINKEDIN_URL" target="_blank" style="color: #0077B5; font-size: 30px;">
+        <i class="fab fa-linkedin"></i>
+    </a>
+    <a href="mailto:YOUR_EMAIL" target="_blank" style="color: #D14836; font-size: 30px;">
+        <i class="fab fa-google"></i>
+    </a>
+    <a href="YOUR_WHATSAPP_URL" target="_blank" style="color: #25D366; font-size: 30px;">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+    <a href="YOUR_DISCORD_URL" target="_blank" style="color: #7289DA; font-size: 30px;">
+        <i class="fab fa-discord"></i>
+    </a>
+    <a href="YOUR_SLACK_URL" target="_blank" style="color: #4A154B; font-size: 30px;">
+        <i class="fab fa-slack"></i>
+    </a>
 </div>
 
 ---
@@ -85,3 +75,4 @@ I'm a **Full-Stack Developer** studying at **Adventist University of Central Afr
 ---
 
 💬 *Feel free to reach out! I'm always open to collaborations, discussions, and new opportunities. 🚀*
+
