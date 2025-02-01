@@ -26,7 +26,7 @@ I'm a **Full-Stack Developer** studying at **Adventist University of Central Afr
 ### 📬 Connect With Me
 
 <div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-    <a href="[https://www.linkedin.com](https://www.linkedin.com/in/i-willy-norbert-6662b034a/)" target="_blank">
+    <a href="https://www.linkedin.com/in/i-willy-norbert-6662b034a/" target="_blank">
         <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/linkedin.jpg" alt="LinkedIn" width="40" style="border-radius: 50%; border: 2px solid #0077B5;">
     </a>
     <a href="willynorbert53@gmail.com" target="_blank">
