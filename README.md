@@ -33,10 +33,10 @@ I'm a **Full-Stack Developer** studying at **Adventist University of Central Afr
   <a href="https://stackoverflow.com/users/22768519/norbert-willy" target="_blank">
         <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/stack.svg" alt="stack" width="40" style="border-radius: 50%; border: 2px solid #0077B5;">
     </a>
-     <a href="willynorbert53@gmail.com" target="_blank">
+     <a href="mailto:willynorbert53@gmail.com" target="_blank">
         <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/email.jpg" alt="Email" width="40" style="border-radius: 50%; border: 2px solid #D14836;">
     </a>
-    <a href="0788777888" target="_blank">
+    <a href="https://wa.me/+250788777888" target="_blank">
         <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/whatsapp.jpg" alt="WhatsApp" width="40" style="border-radius: 50%; border: 2px solid #25D366;">
     </a>
     <a href="https://x.com/IRABARUTA_100" target="_blank">
