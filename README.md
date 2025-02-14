@@ -33,7 +33,7 @@ I'm a **Full-Stack Developer** studying at **Adventist University of Central Afr
 
 #### 2. **My portfolio**
 - **Description**: A full protfolio website shows my educational background and expliences .
-- **Tech Stack**: html, css, bootstrap
+- **Tech Stack**: html, css, js, bootstrap
 - **Deployment**: [My portfolio](https://willy-norbert.github.io/myPortflio/)
 
 ---
