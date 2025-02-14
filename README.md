@@ -24,6 +24,20 @@ I'm a **Full-Stack Developer** studying at **Adventist University of Central Afr
 
 ---
 
+### 🚀 **Projects**
+
+#### 1. **Simple Authentication System**
+- **Description**: A full-stack authentication system that includes user registration, login/logout functionality, password hashing, session management with JWT tokens, and a password reset feature.
+- **Tech Stack**: Node.js, EJS, CSS, PostgreSQL, JWT Tokens
+- **Deployment**: [Simple Authentication System](https://simpleuserauthenticationsystem.onrender.com/)
+
+#### 2. **My portfolio**
+- **Description**: A full protfolio website shows my educational background and expliences .
+- **Tech Stack**: List of technologies used
+- **Deployment**: [My portfolio](https://willy-norbert.github.io/myPortflio/)
+
+---
+
 ### 📬 Connect With Me
 
 <div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
