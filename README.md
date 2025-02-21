@@ -36,6 +36,11 @@ I'm a **Full-Stack Developer** studying at **Adventist University of Central Afr
 - **Tech Stack**: html, css, js, bootstrap
 - **Deployment**: [My portfolio](https://willy-norbert.github.io/myPortflio/)
 
+#### 3. **Expense Tracker
+- **Description**: A full system expense track web app .
+- **Tech Stack**: reactjs, tailwind, Typescript
+- **Deployment**: https://expense-trackerwebapps.vercel.app/
+
 ---
 
 ### 📬 Connect With Me
