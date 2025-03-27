@@ -22,6 +22,7 @@ I'm a **Full-Stack Developer** studying at **Adventist University of Central Afr
     <img src="https://w7.pngwing.com/pngs/399/620/png-transparent-laravel-hd-logo-thumbnail.png" alt="React" width="50" style="margin: 5px;">
         <img src="https://gimgs2.nohat.cc/thumb/f/640/c-language-global-or-external-variables-with-examples-c-programming-logo--m2H7G6A0b1A0K9m2.jpg" alt="React" width="50" style="margin: 5px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png" alt="React" width="50" style="margin: 5px;">
+    <img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" alt="React" width="50" style="margin: 5px;">
     
     
 
