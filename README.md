@@ -1,4 +1,11 @@
-### Hi there 👋 I'm Willy Norbert Irabaruta
+## 👋 Hi, I'm IRABARUTA WILLY NORBERT
+I'm a passionate Full Stack Developer
+- 🔭 I’m currently working on Elearning project
+- 🌱 I’m currently learning Python
+- 💬 Ask me about anything you want related javascript
+- 📫 How to reach me: willynorbert53@gmail.com
+- 📄 Know about my experiences: [[Link to Resume or Portfolio]](http://willy-fawn.vercel.app/)
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=Willy-Norbert&label=Profile%20views&color=0e75b6&style=flat)
  
 
@@ -11,8 +18,6 @@ I'm a **Full-Stack Developer** studying at **Adventist University of Central Afr
 ---
 
 ### 🚀 Tech Stack
-[![trophy](https://github-profile-trophy.vercel.app/?username=Willy-Norbert&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 
 <div align="center">
