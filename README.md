@@ -11,6 +11,10 @@ I'm a **Full-Stack Developer** studying at **Adventist University of Central Afr
 ---
 
 ### 🚀 Tech Stack
+[![trophy](https://github-profile-trophy.vercel.app/?username=Willy-Norbert&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/bootstrap-logo-shadow.png" alt="Bootstrap" width="50" style="margin: 5px;">
     <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/icons/css.png" alt="CSS" width="50" style="margin: 5px;">
@@ -90,6 +94,14 @@ I'm a **Full-Stack Developer** studying at **Adventist University of Central Afr
     <img src="https://github-readme-stats.vercel.app/api?username=Willy-Norbert&show_icons=true&theme=dark" width="48%" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willy-Norbert&layout=compact&theme=dark" width="48%" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
 </div>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Willy-Norbert&theme=gruvbox&column=7&margin-w=10&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
 
 ---
 
