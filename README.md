@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Willy Norbert Irabaruta  
+### Hi there 👋 I'm Willy Norbert Irabaruta
+![Visitor Count](https://komarev.com/ghpvc/?username=Willy-Norbert&label=Profile%20views&color=0e75b6&style=flat)
+ 
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/banners.gif" alt="Animated Banner" width="100%" style="border-radius: 10px;">
