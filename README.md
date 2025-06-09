@@ -4,7 +4,7 @@ I'm a passionate Full Stack Developer
 - 🌱 I’m currently learning Python
 - 💬 Ask me about anything you want related javascript
 - 📫 How to reach me: willynorbert53@gmail.com
-- 📄 Know about my experiences: [[Link to Resume or Portfolio]](http://willy-fawn.vercel.app/)
+- 📄 Know about my experiences: [[my Portfolio]](http://willy-fawn.vercel.app/)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Willy-Norbert&label=Profile%20views&color=0e75b6&style=flat)
  
