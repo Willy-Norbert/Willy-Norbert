@@ -1,571 +1,292 @@
-<!-- MATRIX RAIN EFFECT HEADER -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ██╗    ██╗██╗██╗     ██╗  ██╗   ██╗    ███╗   ██╗ ██████╗ ██████╗ ██████╗  ║
-║   ██║    ██║██║██║     ██║  ╚██╗ ██╔╝    ████╗  ██║██╔═══██╗██╔══██╗██╔══██╗ ║
-║   ██║ █╗ ██║██║██║     ██║   ╚████╔╝     ██╔██╗ ██║██║   ██║██████╔╝██████╔╝ ║
-║   ██║███╗██║██║██║     ██║    ╚██╔╝      ██║╚██╗██║██║   ██║██╔══██╗██╔══██╗ ║
-║   ╚███╔███╔╝██║███████╗███████╗██║       ██║ ╚████║╚██████╔╝██║  ██║██████╔╝ ║
-║    ╚══╝╚══╝ ╚═╝╚══════╝╚══════╝╚═╝       ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝  ║
-║                                                                              ║
-║                    ⚡ FULL STACK DEVELOPER ⚡                                 ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+# 👨‍💻 IRABARUTA WILLY NORBERT
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%24+sudo+apt+install+awesome-developer;%24+Loading+creativity...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25" alt="Typing SVG" />
+### 🚀 Full Stack Developer | Problem Solver | Tech Enthusiast
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](http://willy-fawn.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willynorbert53@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-willy-norbert-6662b034a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Willy-Norbert)
 
-<!-- ANIMATED BADGES ROW -->
-<a href="http://willy-fawn.vercel.app/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-00FF88?style=for-the-badge&logoColor=black" /></a>
-<a href="mailto:willynorbert53@gmail.com"><img src="https://img.shields.io/badge/📧_HIRE_ME-FF6B6B?style=for-the-badge" /></a>
-<a href="https://github.com/Willy-Norbert"><img src="https://img.shields.io/badge/⭐_FOLLOW-00D4FF?style=for-the-badge" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Willy-Norbert&style=for-the-badge&color=00FF88&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/Willy-Norbert?style=for-the-badge&color=00D4FF&label=FOLLOWERS" />
-<img src="https://img.shields.io/badge/OPEN_TO_WORK-YES-00FF88?style=for-the-badge" />
+![Profile Views](https://komarev.com/ghpvc/?username=Willy-Norbert&label=Profile%20views&color=0e75b6&style=for-the-badge&labelColor=0e75b6)
 
 </div>
 
 ---
 
-<!-- TERMINAL STYLE INTRO -->
 <div align="center">
-
-```bash
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│   ████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗               │
-│   ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║               │
-│      ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║               │
-│      ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║               │
-│      ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗          │
-│      ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝          │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
+    <img src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/main/banners.gif" alt="Animated Banner" width="100%" style="border-radius: 10px;">
 </div>
+
+---
+
+## 🎯 About Me
 
 ```javascript
-// ═══════════════════════════════════════════════════════════════════════════
-// 🖥️  SYSTEM: Developer Profile v2.0
-// 📍  LOCATION: Rwanda 🇷🇼 | AUCA
-// ⚡  STATUS: Online & Ready to Build
-// ═══════════════════════════════════════════════════════════════════════════
+const willy = {
+  name: "IRABARUTA WILLY NORBERT",
+  role: "Full Stack Developer",
+  education: "Adventist University of Central Africa (AUCA)",
+  location: "Rwanda",
+  currentFocus: "Elearning Platform Development",
+  learning: ["Python", "Advanced React Patterns", "System Design"],
+  passions: ["Clean Code", "Problem Solving", "Building Scalable Applications"],
+  quote: "Code is like humor. When you have to explain it, it's bad."
+};
 
-class FullStackDeveloper {
-    
-    constructor() {
-        this.name = "IRABARUTA WILLY NORBERT";
-        this.title = "Full Stack Developer";
-        this.location = "Rwanda 🇷🇼";
-        this.education = "Adventist University of Central Africa";
-    }
-
-    getCurrentProject() {
-        return {
-            name: "🎓 E-Learning Platform",
-            status: "IN_PROGRESS",
-            stack: ["React", "Node.js", "MongoDB"]
-        };
-    }
-
-    getSkills() {
-        return {
-            languages:   ["JavaScript", "TypeScript", "Python", "PHP", "C"],
-            frontend:    ["React", "Tailwind CSS", "Bootstrap", "HTML5/CSS3"],
-            backend:     ["Node.js", "Laravel", "Express.js"],
-            databases:   ["MongoDB", "PostgreSQL", "MySQL"],
-            tools:       ["Git", "VS Code", "Figma", "Docker"]
-        };
-    }
-
-    getContactInfo() {
-        return {
-            email:     "willynorbert53@gmail.com",
-            portfolio: "willy-fawn.vercel.app",
-            linkedin:  "linkedin.com/in/i-willy-norbert-6662b034a"
-        };
-    }
-
-    getCurrentlyLearning() {
-        return ["🐍 Python", "🏗️ System Design", "☁️ Cloud Architecture"];
-    }
-
-    getLifeMotto() {
-        return "// Code. Debug. Deploy. Repeat. 🔄";
-    }
-}
-
-const willy = new FullStackDeveloper();
-console.log("🚀 Ready to build amazing things!");
+console.log(`Welcome to ${willy.name}'s GitHub! 🚀`);
 ```
+
+**I'm a passionate Full-Stack Developer** currently pursuing my studies at **Adventist University of Central Africa (AUCA)**. I specialize in building efficient, scalable web applications with a focus on clean code architecture and user experience.
+
+### 🔥 What I'm Up To
+
+- 🔭 **Currently Working On**: Elearning Platform - Building a comprehensive learning management system
+- 🌱 **Currently Learning**: Python, Advanced React Patterns, System Design
+- 💬 **Ask Me About**: JavaScript, React, Node.js, Full-Stack Development, Web Architecture
+- ⚡ **Fun Fact**: I turn coffee into code ☕ → 💻
+- 🎯 **2024 Goals**: Contribute to open source, master Python, build 5+ production apps
 
 ---
 
-<!-- TECH ARSENAL SECTION -->
+## 🛠️ Tech Stack & Tools
+
+### 💻 **Languages & Frameworks**
+
 <div align="center">
 
-## ⚔️ TECH ARSENAL
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║                        🎯 WEAPONS OF CHOICE                           ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<table>
-<tr>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br><strong>JavaScript</strong>
-<br><sub>⭐⭐⭐⭐⭐</sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-<br><strong>TypeScript</strong>
-<br><sub>⭐⭐⭐⭐</sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br><strong>React</strong>
-<br><sub>⭐⭐⭐⭐⭐</sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br><strong>Node.js</strong>
-<br><sub>⭐⭐⭐⭐</sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br><strong>Python</strong>
-<br><sub>⭐⭐⭐</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-<br><strong>PHP</strong>
-<br><sub>⭐⭐⭐⭐</sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-<br><strong>Laravel</strong>
-<br><sub>⭐⭐⭐⭐</sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br><strong>MongoDB</strong>
-<br><sub>⭐⭐⭐⭐</sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-<br><strong>PostgreSQL</strong>
-<br><sub>⭐⭐⭐⭐</sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br><strong>Tailwind</strong>
-<br><sub>⭐⭐⭐⭐⭐</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br><strong>HTML5</strong>
-<br><sub>⭐⭐⭐⭐⭐</sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-<br><strong>CSS3</strong>
-<br><sub>⭐⭐⭐⭐⭐</sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br><strong>Git</strong>
-<br><sub>⭐⭐⭐⭐</sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br><strong>Figma</strong>
-<br><sub>⭐⭐⭐⭐</sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br><strong>VS Code</strong>
-<br><sub>⭐⭐⭐⭐⭐</sub>
-</td>
-</tr>
-</table>
+</div>
 
-<br/>
+### 🗄️ **Databases & Cloud**
 
-<!-- ANIMATED SKILL BARS -->
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  SKILL                LEVEL                              %       ║
-╠══════════════════════════════════════════════════════════════════╣
-║  JavaScript    ████████████████████████████████████░░░░   90%   ║
-║  React         ██████████████████████████████████░░░░░░   85%   ║
-║  Node.js       ████████████████████████████████░░░░░░░░   80%   ║
-║  TypeScript    ██████████████████████████████░░░░░░░░░░   75%   ║
-║  PHP/Laravel   ████████████████████████████░░░░░░░░░░░░   70%   ║
-║  Python        ████████████████████░░░░░░░░░░░░░░░░░░░░   50%   ║
-║  MongoDB       ████████████████████████████████░░░░░░░░   80%   ║
-║  PostgreSQL    ████████████████████████████░░░░░░░░░░░░   70%   ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+</div>
+
+### 🎨 **Design & Tools**
+
+<div align="center">
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-<!-- FEATURED PROJECTS -->
-<div align="center">
+## 🚀 Featured Projects
 
-## 🚀 MISSION LOG: FEATURED PROJECTS
+### 1. 🔐 **Simple Authentication System**
+> A production-ready authentication system with enterprise-level security features
 
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║                     🎯 COMPLETED MISSIONS                             ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
+**Tech Stack**: `Node.js` `EJS` `PostgreSQL` `JWT` `Express.js`
 
-</div>
+**Features**:
+- ✅ User Registration & Login
+- ✅ JWT-based Session Management
+- ✅ Password Hashing (bcrypt)
+- ✅ Password Reset Functionality
+- ✅ Secure Token Validation
 
-<table align="center">
-<tr>
-<td width="50%">
-
-<div align="center">
-
-```
-┌─────────────────────────────────────┐
-│  🔐 AUTHENTICATION SYSTEM           │
-│  ─────────────────────────────────  │
-│                                     │
-│  ╔═══════════════════════════════╗  │
-│  ║  STATUS: ✅ DEPLOYED          ║  │
-│  ║  SECURITY: 🔒 MAXIMUM         ║  │
-│  ╚═══════════════════════════════╝  │
-│                                     │
-│  ► JWT Token Authentication         │
-│  ► Password Hashing (bcrypt)        │
-│  ► Session Management               │
-│  ► Password Reset Flow              │
-│                                     │
-│  STACK: Node.js | EJS | PostgreSQL  │
-│                                     │
-└─────────────────────────────────────┘
-```
-
-<a href="https://simpleuserauthenticationsystem.onrender.com/">
-<img src="https://img.shields.io/badge/▶_LAUNCH_PROJECT-00FF88?style=for-the-badge" />
-</a>
-
-</div>
-
-</td>
-<td width="50%">
-
-<div align="center">
-
-```
-┌─────────────────────────────────────┐
-│  💼 PORTFOLIO WEBSITE               │
-│  ─────────────────────────────────  │
-│                                     │
-│  ╔═══════════════════════════════╗  │
-│  ║  STATUS: ✅ LIVE              ║  │
-│  ║  DESIGN: 🎨 MODERN            ║  │
-│  ╚═══════════════════════════════╝  │
-│                                     │
-│  ► Responsive Design                │
-│  ► Smooth Animations                │
-│  ► Project Showcase                 │
-│  ► Contact Integration              │
-│                                     │
-│  STACK: HTML | CSS | JS | Bootstrap │
-│                                     │
-└─────────────────────────────────────┘
-```
-
-<a href="https://willynorbert.vercel.app/">
-<img src="https://img.shields.io/badge/▶_LAUNCH_PROJECT-00D4FF?style=for-the-badge" />
-</a>
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<div align="center">
-
-```
-┌─────────────────────────────────────┐
-│  💰 EXPENSE TRACKER                 │
-│  ─────────────────────────────────  │
-│                                     │
-│  ╔═══════════════════════════════╗  │
-│  ║  STATUS: ✅ DEPLOYED          ║  │
-│  ║  UI/UX: 🎯 INTUITIVE          ║  │
-│  ╚═══════════════════════════════╝  │
-│                                     │
-│  ► Real-time Tracking               │
-│  ► Category Management              │
-│  ► Visual Analytics                 │
-│  ► Responsive Interface             │
-│                                     │
-│  STACK: React | TypeScript | TW CSS │
-│                                     │
-└─────────────────────────────────────┘
-```
-
-<a href="https://expense-trackerwebapps.vercel.app/">
-<img src="https://img.shields.io/badge/▶_LAUNCH_PROJECT-FF6B6B?style=for-the-badge" />
-</a>
-
-</div>
-
-</td>
-<td width="50%">
-
-<div align="center">
-
-```
-┌─────────────────────────────────────┐
-│  🎓 E-LEARNING PLATFORM             │
-│  ─────────────────────────────────  │
-│                                     │
-│  ╔═══════════════════════════════╗  │
-│  ║  STATUS: 🔄 IN PROGRESS       ║  │
-│  ║  SCOPE: 🌟 AMBITIOUS          ║  │
-│  ╚═══════════════════════════════╝  │
-│                                     │
-│  ► Course Management                │
-│  ► Student Dashboard                │
-│  ► Progress Tracking                │
-│  ► Interactive Lessons              │
-│                                     │
-│  STACK: React | Node.js | MongoDB   │
-│                                     │
-└─────────────────────────────────────┘
-```
-
-<img src="https://img.shields.io/badge/🔨_BUILDING...-FFD700?style=for-the-badge" />
-
-</div>
-
-</td>
-</tr>
-</table>
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://simpleuserauthenticationsystem.onrender.com/)
+[![GitHub](https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Willy-Norbert)
 
 ---
 
-<!-- GITHUB STATS SECTION -->
+### 2. 💼 **Professional Portfolio**
+> A modern, responsive portfolio showcasing my journey, skills, and projects
+
+**Tech Stack**: `HTML5` `CSS3` `JavaScript` `Bootstrap 5`
+
+**Highlights**:
+- 🎨 Modern UI/UX Design
+- 📱 Fully Responsive
+- ⚡ Optimized Performance
+- 🌐 SEO Friendly
+
+[![Live Demo](https://img.shields.io/badge/🌐_Visit_Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://willynorbert.vercel.app/)
+
+---
+
+### 3. 💰 **Expense Tracker Web App**
+> A comprehensive financial management application with real-time tracking
+
+**Tech Stack**: `React.js` `TypeScript` `Tailwind CSS` `Context API`
+
+**Features**:
+- 📊 Expense Analytics & Visualization
+- 📈 Income/Expense Tracking
+- 💾 Local Storage Persistence
+- 🎯 Category-based Organization
+- 📱 Mobile-First Design
+
+[![Live Demo](https://img.shields.io/badge/🌐_Try_It_Now-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://expense-trackerwebapps.vercel.app/)
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-
-## 📊 SYSTEM ANALYTICS
-
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║                      📈 PERFORMANCE METRICS                           ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Willy-Norbert&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00d4ff&text_color=c9d1d9&ring_color=00ff88" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Willy-Norbert&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00ff88&ring=00ff88&fire=00d4ff&currStreakLabel=00ff88&sideLabels=c9d1d9&dates=555555" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willy-Norbert&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" />
-
-<br/><br/>
-
-<!-- CONTRIBUTION GRAPH -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Willy-Norbert&bg_color=0d1117&color=00ff88&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=📊%20Contribution%20Timeline)](https://github.com/Willy-Norbert)
+  
+![Willy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Willy-Norbert&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&count_private=true)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Willy-Norbert&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8)
+  
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Willy-Norbert&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
 
 </div>
 
 ---
 
-<!-- TROPHIES -->
+## 🏆 GitHub Achievements
+
 <div align="center">
-
-## 🏆 ACHIEVEMENT UNLOCKED
-
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║                       🎮 TROPHY COLLECTION                            ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Willy-Norbert&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Willy-Norbert&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-<!-- CONNECT SECTION -->
+## 📈 Contribution Graph
+
 <div align="center">
-
-## 🌐 ESTABLISH CONNECTION
-
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║                    📡 COMMUNICATION CHANNELS                          ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-```
-                    ┌─────────────────────────────────┐
-                    │      🌍 FIND ME EVERYWHERE      │
-                    └─────────────────────────────────┘
-                                    │
-        ┌───────────────────────────┼───────────────────────────┐
-        │                           │                           │
-        ▼                           ▼                           ▼
-   ┌─────────┐                ┌─────────┐                ┌─────────┐
-   │LinkedIn │                │ GitHub  │                │ Twitter │
-   │   💼    │                │   🐙    │                │   🐦    │
-   └─────────┘                └─────────┘                └─────────┘
-        │                           │                           │
-        │                           │                           │
-        ▼                           ▼                           ▼
-   ┌─────────┐                ┌─────────┐                ┌─────────┐
-   │  Email  │                │WhatsApp │                │Instagram│
-   │   📧    │                │   💬    │                │   📸    │
-   └─────────┘                └─────────┘                └─────────┘
-```
-
-<br/>
-
-<a href="https://www.linkedin.com/in/i-willy-norbert-6662b034a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Willy-Norbert">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://x.com/IRABARUTA_100">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="mailto:willynorbert53@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://wa.me/+250788777888">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/irabaruta_53/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://stackoverflow.com/users/22768519/norbert-willy">
-<img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-</a>
-<a href="https://discord.com">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Willy-Norbert&theme=redical&hide_border=true&area=true)
 
 </div>
 
 ---
 
-<!-- SPOTIFY / NOW PLAYING -->
+## 💡 Coding Philosophy
+
+> *"Write code as if the person who ends up maintaining your code is a violent psychopath who knows where you live."* - Martin Golding
+
+**My Approach**:
+- 🎯 **Clean Code First**: Readable, maintainable, and scalable
+- 🧪 **Test-Driven**: Write tests, then code
+- 📚 **Continuous Learning**: Stay updated with latest technologies
+- 🤝 **Collaboration**: Code reviews and pair programming
+- 🚀 **Performance**: Optimize for speed and efficiency
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 **Bachelor's Degree** - Adventist University of Central Africa (AUCA)
+- 📚 **Currently Pursuing**: Advanced Full-Stack Development
+- 🔥 **Self-Learning**: Python, System Design, Cloud Architecture
+
+---
+
+## 📬 Let's Connect!
+
 <div align="center">
-
-## 🎵 CURRENT VIBE
-
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║                        🎧 CODING PLAYLIST                             ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
-
-```
-   ╔════════════════════════════════════════════════════╗
-   ║                                                    ║
-   ║   🎵  NOW PLAYING: Lo-Fi Beats to Code to         ║
-   ║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◉───────  2:45     ║
-   ║                                                    ║
-   ║          ◄◄   ▐▐   ►►   🔊 ▁▂▃▄▅▆▇               ║
-   ║                                                    ║
-   ╚════════════════════════════════════════════════════╝
-```
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-willy-norbert-6662b034a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Willy-Norbert)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22768519/norbert-willy)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/IRABARUTA_100)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willynorbert53@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+250788777888)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/irabaruta_53/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://devcareerafrica.slack.com/)
 
 </div>
 
 ---
 
-<!-- SNAKE ANIMATION -->
+## 💼 Open to Opportunities
+
 <div align="center">
-
-## 🐍 CONTRIBUTION SNAKE
-
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║                   🎮 WATCH THE SNAKE EAT MY COMMITS                   ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Willy-Norbert/Willy-Norbert/output/github-contribution-grid-snake.svg">
-</picture>
+  
+![Open to Work](https://img.shields.io/badge/Open_to_Work-00D26A?style=for-the-badge&logo=linkedin&logoColor=white)
+![Available for Freelance](https://img.shields.io/badge/Available_for_Freelance-FF6B6B?style=for-the-badge&logo=freelancer&logoColor=white)
+![Open to Collaboration](https://img.shields.io/badge/Open_to_Collaboration-4ECDC4?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-<!-- FOOTER -->
+## 🎯 Current Focus
+
+```mermaid
+graph LR
+    A[Learning Python] --> B[Building Elearning Platform]
+    B --> C[Open Source Contributions]
+    C --> D[System Design Mastery]
+    D --> E[Cloud Architecture]
+```
+
+---
+
+## 📝 Latest Blog Posts / Articles
+
+*Coming soon... Stay tuned for technical articles and coding insights!*
+
+---
+
+## ⚡ Quick Stats
+
 <div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║                                                                       ║
-║   ████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗███████╗                 ║
-║   ╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝██╔════╝                 ║
-║      ██║   ███████║███████║██╔██╗ ██║█████╔╝ ███████╗                 ║
-║      ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗ ╚════██║                 ║
-║      ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗███████║                 ║
-║      ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝                 ║
-║                                                                       ║
-║              FOR VISITING MY PROFILE! LET'S BUILD TOGETHER 🚀        ║
-║                                                                       ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00d4ff,100:00ff88&height=120&section=footer" width="100%" />
-
-<br/>
-
-```bash
-┌──(willy@dev)-[~/profile]
-└─$ echo "Thanks for scrolling! Star ⭐ if you liked it!" && exit 0
-```
-
-<br/>
-
-**💡 "First, solve the problem. Then, write the code." — John Johnson**
-
-<br/>
-
-<img src="https://img.shields.io/badge/Made_with-❤️_and_☕-00FF88?style=for-the-badge" />
+  
+![Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20To%20Now-100K%2B%20Lines%20of%20Code-blue?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-10%2B-success?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/Contributions-This%20Year-brightgreen?style=for-the-badge)
 
 </div>
+
+---
+
+## 🎨 Random Dev Quote
+
+<div align="center">
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💬 *Feel free to reach out! I'm always open to collaborations, discussions, and new opportunities.* 🚀
+
+**Let's build something amazing together!** ⚡
+
+![Snake animation](https://github.com/Willy-Norbert/Willy-Norbert/blob/output/github-contribution-grid-snake.svg)
+
+⭐️ *If you like my work, consider giving a star to my repositories!* ⭐️
+
+</div>
+
+---
+
+<div align="center">
+  
+**Made with ❤️ by IRABARUTA WILLY NORBERT**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Willy-Norbert&label=Profile%20views&color=0e75b6&style=flat-square)
+
+</div>
+
