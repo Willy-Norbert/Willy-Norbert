@@ -70,40 +70,32 @@ src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e5
 
 <br>
 
-<!-- Top Languages (compact) -->
+<!-- Top Languages (working mirror) -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willy-Norbert&show_icons=true&theme=dark&layout=compact" alt="Willy-Norbert - Top Languages" />
+  <img align="left" src="https://github-readme-stats.encryptedtouhid.vercel.app/api/top-langs/?username=Willy-Norbert&layout=compact&theme=dark" alt="Willy-Norbert - Top Languages" />
 </p>
 
 <br><br><br><br><br><br><br>
 
-<!-- Full GitHub Stats -->
+<!-- Full GitHub Stats (working mirror) -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Willy-Norbert&show_icons=true&theme=dark" alt="Willy-Norbert - GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.encryptedtouhid.vercel.app/api?username=Willy-Norbert&show_icons=true&theme=dark" alt="Willy-Norbert - GitHub Stats" />
 </p>
 
 <br><br><br><br><br><br><br><br><br><br>
 
-<!-- Activity Graph: uses the activity-graph service (cyclic/vercel mirrors available) -->
+<!-- Activity Graph (working mirror) -->
 <p>
-  <img align="left" src="https://github-readme-activity-graph.cyclic.app/graph?username=Willy-Norbert&theme=react-dark" alt="Willy-Norbert's GitHub Activity Graph" />
+  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=Willy-Norbert&theme=react-dark" alt="Willy-Norbert's GitHub Activity Graph" />
 </p>
 
-<br><br><br><br><br><br><br><br><br><br>
-
-<!-- Streak stats: demo/mirror service (more reliable than some Heroku instances) -->
-<p>
-  <img align="left" src="https://streak-stats.demolab.com/?user=Willy-Norbert&theme=dark" alt="Willy-Norbert - Streak Stats" />
-</p>
-
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <hr width="60%">
 
 <h3 align="left">Trophies & Quick Widgets</h3>
 
 <p>
-  <!-- Profile Trophies -->
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=Willy-Norbert&theme=dark" alt="Trophies" />
 </p>
 
